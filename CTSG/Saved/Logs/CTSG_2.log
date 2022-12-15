@@ -1,4 +1,4 @@
-﻿Log file open, 12/12/22 05:47:42
+﻿Log file open, 12/15/22 23:26:06
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,58 +10,61 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: CTSG
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.185802
+LogStats: Stats thread started at 0.186023
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
-LogPluginManager: Mounting plugin LiveLink
-LogPluginManager: Mounting plugin OodleData
-LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin OodleNetwork
-LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin TextureFormatOodle
-LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
-LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
@@ -73,41 +76,38 @@ LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin AndroidMoviePlayer
-LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidPermission
-LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
@@ -228,367 +228,976 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[r.TextureStreaming:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
-[2022.12.11-22.47.42:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2022.12.11-22.47.42:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
-[2022.12.11-22.47.42:395][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
-[2022.12.11-22.47.42:415][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:415][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.12.11-22.47.42:415][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.12.11-22.47.42:415][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.12.11-22.47.42:416][  0]LogInit: Selected Device Profile: [Windows]
-[2022.12.11-22.47.42:416][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2022.12.11-22.47.42:416][  0]LogHAL: Display: Platform has ~ 16 GB [17089064960 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2022.12.11-22.47.42:416][  0]LogInit: Going up to parent DeviceProfile []
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.12.11-22.47.42:416][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
-[2022.12.11-22.47.42:417][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Editor.ini]
-[2022.12.11-22.47.42:417][  0]LogInit: Computer: DESKTOP-BVGPQPL
-[2022.12.11-22.47.42:417][  0]LogInit: User: gamez
-[2022.12.11-22.47.42:417][  0]LogInit: CPU Page size=4096, Cores=6
-[2022.12.11-22.47.42:417][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2022.12.11-22.47.42:418][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2022.12.11-22.47.42:418][  0]LogMemory: Platform Memory Stats for Windows
-[2022.12.11-22.47.42:418][  0]LogMemory: Process Physical Memory: 144.89 MB used, 144.89 MB peak
-[2022.12.11-22.47.42:418][  0]LogMemory: Process Virtual Memory: 130.13 MB used, 130.13 MB peak
-[2022.12.11-22.47.42:418][  0]LogMemory: Physical Memory: 10188.08 MB used,  6109.32 MB free, 16297.40 MB total
-[2022.12.11-22.47.42:418][  0]LogMemory: Virtual Memory: 134209184.00 MB used,  8545.13 MB free, 134217728.00 MB total
-[2022.12.11-22.47.42:422][  0]LogWindows: WindowsPlatformFeatures enabled
-[2022.12.11-22.47.42:457][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2022.12.11-22.47.42:457][  0]LogInit: Using OS detected language (en-US).
-[2022.12.11-22.47.42:457][  0]LogInit: Using OS detected locale (en-US).
-[2022.12.11-22.47.42:460][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2022.12.11-22.47.42:605][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2022.12.11-22.47.42:637][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2022.12.11-22.47.42:637][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2022.12.11-22.47.42:661][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
-[2022.12.11-22.47.42:664][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.12.11-22.47.42:664][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2022.12.11-22.47.42:664][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2022.12.11-22.47.42:664][  0]LogD3D11RHI: D3D11 adapters:
-[2022.12.11-22.47.42:753][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
-[2022.12.11-22.47.42:753][  0]LogD3D11RHI:       5968/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI: Chosen D3D11 Adapter:
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     VendorId    : 10de
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     DeviceId    : 1f08
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     SubSysId    : 12fd10de
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     Revision    : 00a1
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     SharedSystemMemory : 8544532480 bytes
-[2022.12.11-22.47.42:755][  0]LogD3D11RHI:     AdapterLuid : 0 61840
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
-[2022.12.11-22.47.42:763][  0]LogWindows: EnumDisplayDevices:
-[2022.12.11-22.47.42:763][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
-[2022.12.11-22.47.42:763][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
-[2022.12.11-22.47.42:763][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
-[2022.12.11-22.47.42:763][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
-[2022.12.11-22.47.42:763][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:      Driver Date: 12-5-2022
-[2022.12.11-22.47.42:763][  0]LogRHI: Texture pool is 4177 MB (70% of 5968 MB)
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI: Creating D3DDevice using adapter:
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     VendorId    : 10de
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     DeviceId    : 1f08
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     SubSysId    : 12fd10de
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     Revision    : 00a1
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     SharedSystemMemory : 8544532480 bytes
-[2022.12.11-22.47.42:763][  0]LogD3D11RHI:     AdapterLuid : 0 61840
-[2022.12.11-22.47.42:811][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2022.12.11-22.47.42:811][  0]LogD3D11RHI: Async texture creation enabled
-[2022.12.11-22.47.42:811][  0]LogD3D11RHI: Array index from any shader is supported
-[2022.12.11-22.47.42:833][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2022.12.11-22.47.42:856][  0]LogRHI: GeForceNow SDK initialized: 1
-[2022.12.11-22.47.43:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2022.12.11-22.47.43:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2022.12.11-22.47.43:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2022.12.11-22.47.43:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2022.12.11-22.47.43:087][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2022.12.11-22.47.43:093][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2022.12.11-22.47.43:117][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
-[2022.12.11-22.47.43:144][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2022.12.11-22.47.43:144][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../GH_CTSG/CTSG_Project/CTSG/Intermediate/Shaders/WorkingDirectory/11340/).
-[2022.12.11-22.47.43:144][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gamez/AppData/Local/Temp/UnrealShaderWorkingDir/0D7F69234087DB0C42A24D864885BD54/'.
-[2022.12.11-22.47.43:145][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2022.12.11-22.47.43:145][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2022.12.11-22.47.43:145][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2022.12.11-22.47.43:718][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2022.12.11-22.47.43:778][  0]LogDerivedDataCache: Loaded boot cache 0.06s 146MB C:/Users/gamez/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
-[2022.12.11-22.47.43:778][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gamez/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
-[2022.12.11-22.47.43:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GH_CTSG/CTSG_Project/CTSG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2022.12.11-22.47.43:778][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2022.12.11-22.47.43:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GH_CTSG/CTSG_Project/CTSG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.12.11-22.47.43:778][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2022.12.11-22.47.43:793][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2022.12.11-22.47.43:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.12.11-22.47.43:794][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2022.12.11-22.47.43:801][  0]LogDerivedDataCache: Speed tests for C:/Users/gamez/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
-[2022.12.11-22.47.43:801][  0]LogDerivedDataCache: Display: Performance to C:/Users/gamez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1639.95MBs, RandomWriteSpeed=139.78MBs. Assigned SpeedClass 'Local'
-[2022.12.11-22.47.43:801][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gamez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2022.12.11-22.47.43:801][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2022.12.11-22.47.43:801][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2022.12.11-22.47.43:829][  0]LogSlate: Using FreeType 2.10.0
-[2022.12.11-22.47.43:829][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2022.12.11-22.47.43:887][  0]LogInit: Using OS detected language (en-US).
-[2022.12.11-22.47.43:887][  0]LogInit: Using OS detected locale (en-US).
-[2022.12.11-22.47.43:887][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
-[2022.12.11-22.47.43:887][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
-[2022.12.11-22.47.43:887][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2022.12.11-22.47.43:887][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2022.12.11-22.47.43:889][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
-[2022.12.11-22.47.43:889][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
-[2022.12.11-22.47.44:021][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.000874 seconds
-[2022.12.11-22.47.44:067][  0]LogInit: Selected Device Profile: [Windows]
-[2022.12.11-22.47.44:068][  0]LogInit: Active device profile: [000001866568F200][000001865D929140 49] Windows
-[2022.12.11-22.47.44:068][  0]LogInit: Profiles: [000001866568F200][000001865D929140 49] Windows, [000001866563D000][000001865D1872C0 49] WindowsNoEditor, [000001866568D000][000001865D18B440 49] WindowsServer, [000001866563EA00][000001865D18F5C0 49] WindowsClient, [000001866568E900][000001865D92D700 49] IOS, [000001866563D900][000001865D193840 49] iPadAir, [000001866568D800][000001865D401980 49] iPadAir2, [00000186655FB900][000001865D40DC00 49] IPadPro, [00000186655FBA00][000001865D4040C0 49] iPadAir3, [000001866568E300][000001865D410240 49] iPadAir4, [00000186655F9500][000001865D4143C0 49] iPadMini2, [000001866568F700][000001865D418540 49] iPadMini3, [00000186655FA400][000001865D41C6C0 49] iPadMini4, [000001866568C800][000001865D420840 49] iPadMini5, [000001866560F200][000001865D428B00 49] iPhone6, [000001866560F300][000001865D424B40 49] iPodTouch6, [00000186655F8500][000001865D430E00 49] iPhone7, [00000186655F8400][000001865D42CE40 49] iPodTouch7, [000001866560D400][000001865D434FC0 49] iPhone5S, [00000186655FA200][000001865D439140 49] iPhone6Plus, [000001866560E500][000001865D43D2C0 49] iPhone6S, [00000186655F9300][000001865D441440 49] iPhone6SPlus, [000001866560DC00][000001865D4455C0 49] iPhone7Plus, [00000186655F9700][000001865D449740 49] iPhoneSE, [000001866560CE00][00000186659438C0 49] iPhone8, [00000186655F8E00][000001865D409A00 49] iPhone8Plus, [000001866560ED00][0000018665947B40 49] iPhoneX, [00000186655F8A00][000001866594A100 49] iPhoneXS, [000001866560F900][0000018665952280 49] iPhoneXSMax, [00000186655F9800][0000018665956400 49] iPhoneXR, [000001866560FD00][000001866595A580 49] iPhone11, [00000186655F8200][000001866595E700 49] iPhone11Pro, [000001866560CD00][0000018665962880 49] iPhone11ProMax, [00000186655F8D00][0000018665966A00 49] iPhoneSE2, [000001866560E400][000001866596AB80 49] iPhone12Mini, [00000186655F9000][000001866596ED00 49] iPhone12, [000001866560D700][0000018665972E80 49] iPhone12Pro, [00000186655FBB00][0000018665977000 49] iPhone12ProMax, [000001866560D600][000001866597B180 49] iPadPro105, [00000186655FB600][000001866597F300 49] iPadPro129, [000001866560F700][0000018665983480 49] iPadPro97, [00000186655FA900][0000018665987600 49] iPadPro2_129, [000001866560D300][000001866598B780 49] iPad5, [00000186655F8700][000001866598F900 49] iPad6, [000001866560C300][0000018665993A80 49] iPad7, [00000186655F9200][000001866594FBC0 49] iPad8, [000001866560FF00][0000018665996180 49] iPadPro11, [00000186655F9C00][000001866599A2C0 49] iPadPro2_11, [000001866560CB00][00000186659A2440 49] iPadPro3_129, [00000186655FB500][00000186659A65C0 49] iPadPro4_129, [000001866560EF00][00000186659AA740 49] AppleTV, [00000186655F8600][00000186659AE8C0 49] AppleTV4K, [000001866560D100][00000186659B2A40 49] TVOS, [00000186655FAA00][00000186659B6BC0 49] Mac, [000001866560DF00][00000186659BAD40 49] MacClient, [00000186655F8C00][00000186659BEEC0 49] MacNoEditor, [000001866560EB00][00000186659C3040 49] MacServer, [00000186655FA300][00000186659C71C0 49] Linux, [000001866563E300][00000186659CB340 49] LinuxAArch64, [00000186656D0C00][00000186659CF4C0 49] LinuxNoEditor, [000001866563CA00][00000186659D3640 49] LinuxAArch64NoEditor, [00000186656D0E00][00000186659D77C0 49] LinuxClient, [000001866563F200][00000186659DB940 49] LinuxAArch64Client, [00000186656D1B00][00000186659DFAC0 49] LinuxServer, [000001866563FB00][00000186659E20C0 49] LinuxAArch64Server, [00000186656D1A00][000001866599E200 49] Android, [000001866563D800][00000186659E6340 49] Android_Low, [00000186656D1900][00000186659EA480 49] Android_Mid, [000001866563CC00][00000186659EE5C0 49] Android_High, [00000186656D1100][00000186659F6740 49] Android_Default, [000001866563DA00][00000186659FA8C0 49] Android_Adreno4xx, [00000186656D1E00][00000186659FEA40 49] Android_Adreno5xx_Low, [000001866563D400][0000018665A02BC0 49] Android_Adreno5xx, [00000186656D1000][0000018665A06D40 49] Android_Adreno6xx, [000001866563C600][0000018665A0AEC0 49] Android_Adreno6xx_Vulkan, [00000186656D0900][0000018665A0F040 49] Android_Mali_T6xx, [000001866563D100][0000018665A131C0 49] Android_Mali_T7xx, [00000186656D1800][0000018665A17340 49] Android_Mali_T8xx, [00000186655FA600][0000018665A1B4C0 49] Android_Mali_G71, [000001866560C500][0000018665A1F640 49] Android_Mali_G72, [00000186655F8300][0000018665A237C0 49] Android_Mali_G72_Vulkan, [000001866560E000][0000018665A27940 49] Android_Mali_G76, [00000186655FB200][0000018665A2BAC0 49] Android_Mali_G76_Vulkan, [000001866560D500][0000018665A2E0C0 49] Android_Mali_G77, [00000186655F9600][0000018665A32240 49] Android_Mali_G77_Vulkan, [000001866560F800][00000186659F2380 49] Android_Mali_G78, [00000186655F8800][0000018665A364C0 49] Android_Mali_G78_Vulkan, [000001866560DD00][0000018665A3A600 49] Android_Mali_G710, [00000186655FB800][0000018665A3E740 49] Android_Mali_G710_Vulkan, [00000186656D0800][0000018665A468C0 49] Android_Vulkan_SM5, [00000186655F9D00][0000018665A4AA40 49] Android_PowerVR_G6xxx, [00000186656D0D00][0000018665A4EBC0 49] Android_PowerVR_GT7xxx, [00000186655FB400][0000018665A52D40 49] Android_PowerVR_GE8xxx, [00000186656D0F00][0000018665A56EC0 49] Android_PowerVR_GM9xxx, [00000186655FA100][0000018665A5B040 49] Android_PowerVR_GM9xxx_Vulkan, [00000186656D0A00][0000018665A5F1C0 49] Android_TegraK1, [00000186655FB000][0000018665A63340 49] Android_Unknown_Vulkan, [00000186656D0100][0000018665A674C0 49] Lumin, [00000186655F9F00][0000018665A6B640 49] Lumin_Desktop, [00000186656D1F00][0000018665A6F7C0 49] HoloLens, 
-[2022.12.11-22.47.44:104][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2022.12.11-22.47.44:104][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2022.12.11-22.47.44:104][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2022.12.11-22.47.44:104][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2022.12.11-22.47.44:104][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2022.12.11-22.47.44:191][  0]LogNetVersion: CTSG 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3362744262)
-[2022.12.11-22.47.44:385][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
-[2022.12.11-22.47.44:431][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[r.TextureStreaming:0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
+[2022.12.15-16.26.07:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.15-16.26.07:288][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.15-16.26.07:289][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.15-16.26.07:289][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.15-16.26.07:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
+[2022.12.15-16.26.07:289][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.15-16.26.07:306][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:306][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.15-16.26.07:307][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.15-16.26.07:307][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.15-16.26.07:307][  0]LogHAL: Display: Platform has ~ 16 GB [17089064960 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.15-16.26.07:307][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.15-16.26.07:307][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.15-16.26.07:308][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.15-16.26.07:308][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.15-16.26.07:308][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.15-16.26.07:308][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Engine.ini]
+[2022.12.15-16.26.07:308][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Editor.ini]
+[2022.12.15-16.26.07:308][  0]LogInit: Computer: DESKTOP-BVGPQPL
+[2022.12.15-16.26.07:308][  0]LogInit: User: gamez
+[2022.12.15-16.26.07:308][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.15-16.26.07:308][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.15-16.26.07:308][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.12.15-16.26.07:308][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.15-16.26.07:308][  0]LogMemory: Process Physical Memory: 144.97 MB used, 144.97 MB peak
+[2022.12.15-16.26.07:308][  0]LogMemory: Process Virtual Memory: 130.12 MB used, 130.12 MB peak
+[2022.12.15-16.26.07:308][  0]LogMemory: Physical Memory: 10865.21 MB used,  5432.19 MB free, 16297.40 MB total
+[2022.12.15-16.26.07:308][  0]LogMemory: Virtual Memory: 134208344.00 MB used,  9382.82 MB free, 134217728.00 MB total
+[2022.12.15-16.26.07:312][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.15-16.26.07:345][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.15-16.26.07:346][  0]LogInit: Using OS detected language (en-US).
+[2022.12.15-16.26.07:346][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.15-16.26.07:347][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.15-16.26.07:494][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.15-16.26.07:525][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.15-16.26.07:525][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.15-16.26.07:546][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.15-16.26.07:549][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.15-16.26.07:549][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.15-16.26.07:549][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.15-16.26.07:549][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.15-16.26.07:623][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.12.15-16.26.07:623][  0]LogD3D11RHI:       5968/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     SubSysId    : 12fd10de
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     SharedSystemMemory : 8544532480 bytes
+[2022.12.15-16.26.07:624][  0]LogD3D11RHI:     AdapterLuid : 0 64559
+[2022.12.15-16.26.07:632][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.15-16.26.07:632][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.15-16.26.07:632][  0]LogWindows: EnumDisplayDevices:
+[2022.12.15-16.26.07:633][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2022.12.15-16.26.07:633][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2022.12.15-16.26.07:633][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.12.15-16.26.07:633][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.12.15-16.26.07:633][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:      Driver Date: 12-5-2022
+[2022.12.15-16.26.07:633][  0]LogRHI: Texture pool is 4177 MB (70% of 5968 MB)
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     SubSysId    : 12fd10de
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     SharedSystemMemory : 8544532480 bytes
+[2022.12.15-16.26.07:633][  0]LogD3D11RHI:     AdapterLuid : 0 64559
+[2022.12.15-16.26.07:677][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.15-16.26.07:678][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.15-16.26.07:678][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.15-16.26.07:698][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.12.15-16.26.07:719][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.15-16.26.07:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.15-16.26.07:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.15-16.26.07:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.15-16.26.07:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.15-16.26.07:928][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.15-16.26.07:934][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.15-16.26.07:958][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.15-16.26.07:985][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.15-16.26.07:985][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../GH_CTSG/CTSG_Project/CTSG/Intermediate/Shaders/WorkingDirectory/19980/).
+[2022.12.15-16.26.07:985][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gamez/AppData/Local/Temp/UnrealShaderWorkingDir/2BE708674769BF1691472F894ECA2364/'.
+[2022.12.15-16.26.07:985][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.15-16.26.07:985][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.15-16.26.07:985][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.15-16.26.08:546][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.15-16.26.08:601][  0]LogDerivedDataCache: Loaded boot cache 0.05s 145MB C:/Users/gamez/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.15-16.26.08:601][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gamez/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.15-16.26.08:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GH_CTSG/CTSG_Project/CTSG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.15-16.26.08:601][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.15-16.26.08:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GH_CTSG/CTSG_Project/CTSG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.15-16.26.08:601][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.15-16.26.08:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.15-16.26.08:616][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.15-16.26.08:616][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.15-16.26.08:621][  0]LogDerivedDataCache: Speed tests for C:/Users/gamez/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.15-16.26.08:621][  0]LogDerivedDataCache: Display: Performance to C:/Users/gamez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1674.21MBs, RandomWriteSpeed=220.47MBs. Assigned SpeedClass 'Local'
+[2022.12.15-16.26.08:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gamez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.15-16.26.08:622][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.15-16.26.08:622][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.15-16.26.08:648][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.15-16.26.08:649][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.15-16.26.08:705][  0]LogInit: Using OS detected language (en-US).
+[2022.12.15-16.26.08:706][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.15-16.26.08:706][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.12.15-16.26.08:706][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.12.15-16.26.08:706][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.15-16.26.08:706][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.15-16.26.08:709][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2022.12.15-16.26.08:709][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2022.12.15-16.26.08:833][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.000886 seconds
+[2022.12.15-16.26.08:880][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.15-16.26.08:880][  0]LogInit: Active device profile: [000002360A443200][0000023600A3F4C0 49] Windows
+[2022.12.15-16.26.08:881][  0]LogInit: Profiles: [000002360A443200][0000023600A3F4C0 49] Windows, [000002360A3F9000][0000023600A47640 49] WindowsNoEditor, [000002360A441000][0000023600A43780 49] WindowsServer, [000002360A3FAA00][0000023600A4B8C0 49] WindowsClient, [000002360A442900][00000236013FDA00 49] IOS, [000002360A3F9900][0000023601401B40 49] iPadAir, [000002360A441800][0000023601408140 49] iPadAir2, [000002360A3AB900][0000023601410400 49] IPadPro, [000002360A3ABA00][000002360140C440 49] iPadAir3, [000002360A442300][00000236014145C0 49] iPadAir4, [000002360A3A9500][0000023601418740 49] iPadMini2, [000002360A443700][000002360141C8C0 49] iPadMini3, [000002360A3AA400][0000023601420A40 49] iPadMini4, [000002360A440800][0000023601424BC0 49] iPadMini5, [000002360A3C3200][000002360142CE80 49] iPhone6, [000002360A3C3300][0000023601428EC0 49] iPodTouch6, [000002360A3A8500][0000023601435180 49] iPhone7, [000002360A3A8400][00000236014311C0 49] iPodTouch7, [000002360A3C1400][0000023601439340 49] iPhone5S, [000002360A3AA200][000002360143D4C0 49] iPhone6Plus, [000002360A3C2500][0000023600AED640 49] iPhone6S, [000002360A3A9300][0000023600AF17C0 49] iPhone6SPlus, [000002360A3C1C00][0000023601405900 49] iPhone7Plus, [000002360A3A9700][0000023600AF5A40 49] iPhoneSE, [000002360A3C0E00][0000023600AF9B80 49] iPhone8, [000002360A3A8E00][0000023600AFC140 49] iPhone8Plus, [000002360A3C2D00][0000023600B042C0 49] iPhoneX, [000002360A3A8A00][0000023600B08440 49] iPhoneXS, [000002360A3C3900][0000023600B0C5C0 49] iPhoneXSMax, [000002360A3A9800][0000023600B10740 49] iPhoneXR, [000002360A3C3D00][0000023600B148C0 49] iPhone11, [000002360A3A8200][0000023600B18A40 49] iPhone11Pro, [000002360A3C0D00][0000023600B1CBC0 49] iPhone11ProMax, [000002360A3A8D00][0000023600B20D40 49] iPhoneSE2, [000002360A3C2400][0000023600B24EC0 49] iPhone12Mini, [000002360A3A9000][0000023600B29040 49] iPhone12, [000002360A3C1700][0000023600B2D1C0 49] iPhone12Pro, [000002360A3ABB00][0000023600B31340 49] iPhone12ProMax, [000002360A3C1600][0000023600B354C0 49] iPadPro105, [000002360A3AB600][0000023600EE3640 49] iPadPro129, [000002360A3C3700][0000023600EE77C0 49] iPadPro97, [000002360A3AA900][0000023600EEB940 49] iPadPro2_129, [000002360A3C1300][0000023600EEFAC0 49] iPad5, [000002360A3A8700][0000023600B01C00 49] iPad6, [000002360A3C0300][0000023600EF21C0 49] iPad7, [000002360A3A9200][0000023600EF6300 49] iPad8, [000002360A3C3F00][0000023600EFE480 49] iPadPro11, [000002360A3A9C00][0000023600F02600 49] iPadPro2_11, [000002360A3C0B00][0000023600F06780 49] iPadPro3_129, [000002360A3AB500][0000023600F0A900 49] iPadPro4_129, [000002360A3C2F00][0000023600F0EA80 49] AppleTV, [000002360A3A8600][0000023600F12C00 49] AppleTV4K, [000002360A3C1100][0000023600F16D80 49] TVOS, [000002360A3AAA00][0000023600F1AF00 49] Mac, [000002360A3C1F00][0000023600F1F080 49] MacClient, [000002360A3A8C00][0000023600F23200 49] MacNoEditor, [000002360A3C2B00][0000023600F27380 49] MacServer, [000002360A3AA300][0000023600F2B500 49] Linux, [000002360A3FA300][0000023600F2F680 49] LinuxAArch64, [000002360A474C00][0000023600F33800 49] LinuxNoEditor, [000002360A3F8A00][0000023600F37980 49] LinuxAArch64NoEditor, [000002360A474E00][0000023600F3BB00 49] LinuxClient, [000002360A3FB200][0000023600F3E100 49] LinuxAArch64Client, [000002360A475B00][0000023600EFA240 49] LinuxServer, [000002360A3FBB00][0000023600F42380 49] LinuxAArch64Server, [000002360A475A00][0000023600F464C0 49] Android, [000002360A3F9800][0000023600F4E640 49] Android_Low, [000002360A475900][0000023600F527C0 49] Android_Mid, [000002360A3F8C00][0000023600F56940 49] Android_High, [000002360A475100][0000023600F5AAC0 49] Android_Default, [000002360A3F9A00][0000023600F5EC40 49] Android_Adreno4xx, [000002360A475E00][0000023600F62DC0 49] Android_Adreno5xx_Low, [000002360A3F9400][0000023600F66F40 49] Android_Adreno5xx, [000002360A475000][0000023600F6B0C0 49] Android_Adreno6xx, [000002360A3F8600][0000023600F6F240 49] Android_Adreno6xx_Vulkan, [000002360A474900][0000023600F733C0 49] Android_Mali_T6xx, [000002360A3F9100][0000023600F77540 49] Android_Mali_T7xx, [000002360A475800][0000023600F7B6C0 49] Android_Mali_T8xx, [000002360A3AA600][0000023600F7F840 49] Android_Mali_G71, [000002360A3C0500][0000023600F839C0 49] Android_Mali_G72, [000002360A3A8300][0000023600F87B40 49] Android_Mali_G72_Vulkan, [000002360A3C2000][0000023600F8A140 49] Android_Mali_G76, [000002360A3AB200][0000023600F8E2C0 49] Android_Mali_G76_Vulkan, [000002360A3C1500][0000023600F4A400 49] Android_Mali_G77, [000002360A3A9600][0000023600F92540 49] Android_Mali_G77_Vulkan, [000002360A3C3800][0000023600F96680 49] Android_Mali_G78, [000002360A3A8800][0000023600F9A7C0 49] Android_Mali_G78_Vulkan, [000002360A3C1D00][0000023600FA2940 49] Android_Mali_G710, [000002360A3AB800][0000023600FA6AC0 49] Android_Mali_G710_Vulkan, [000002360A474800][0000023600FAAC40 49] Android_Vulkan_SM5, [000002360A3A9D00][0000023600FAEDC0 49] Android_PowerVR_G6xxx, [000002360A474D00][0000023600FB2F40 49] Android_PowerVR_GT7xxx, [000002360A3AB400][0000023600FB70C0 49] Android_PowerVR_GE8xxx, [000002360A474F00][0000023600FBB240 49] Android_PowerVR_GM9xxx, [000002360A3AA100][0000023600FBF3C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002360A474A00][0000023600FC3540 49] Android_TegraK1, [000002360A3AB000][0000023600FC76C0 49] Android_Unknown_Vulkan, [000002360A474100][0000023600FCB840 49] Lumin, [000002360A3A9F00][0000023600FCF9C0 49] Lumin_Desktop, [000002360A475F00][0000023600FD3B40 49] HoloLens, 
+[2022.12.15-16.26.08:915][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.15-16.26.08:915][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.15-16.26.08:915][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.15-16.26.08:915][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.15-16.26.08:915][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.15-16.26.09:000][  0]LogNetVersion: CTSG 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3362744262)
+[2022.12.15-16.26.09:198][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.15-16.26.09:252][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.15-16.26.09:335][  0]LogMoviePlayer: Initializing movie player
+[2022.12.15-16.26.09:428][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C1701E9A4DF6AE746D647AA00BD5E84A | Instance: 577963A14C171BB1CE9785B6936A86A0 (DESKTOP-BVGPQPL-19980).
+[2022.12.15-16.26.09:444][  0]LogCollectionManager: Loaded 0 collections in 0.000514 seconds
+[2022.12.15-16.26.09:446][  0]LogFileCache: Scanning file cache for directory 'D:/GH_CTSG/CTSG_Project/CTSG/Saved/Collections/' took 0.00s
+[2022.12.15-16.26.09:446][  0]LogFileCache: Scanning file cache for directory 'D:/GH_CTSG/CTSG_Project/CTSG/Content/Developers/gamez/Collections/' took 0.00s
+[2022.12.15-16.26.09:446][  0]LogFileCache: Scanning file cache for directory 'D:/GH_CTSG/CTSG_Project/CTSG/Content/Collections/' took 0.00s
+[2022.12.15-16.26.09:446][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2022.12.15-16.26.09:459][  0]LogPython: Using Python 3.7.7
+[2022.12.15-16.26.09:878][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.15-16.26.09:886][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.15-16.26.09:954][  0]SourceControl: Source control is disabled
+[2022.12.15-16.26.09:954][  0]SourceControl: Source control is disabled
+[2022.12.15-16.26.09:957][  0]SourceControl: Source control is disabled
+[2022.12.15-16.26.09:962][  0]LogUProjectInfo: Found projects:
+[2022.12.15-16.26.10:028][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.15-16.26.10:055][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.15-16.26.10:072][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.15-16.26.10:072][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.15-16.26.10:126][  0]LogOcInput: OculusInput pre-init called
+[2022.12.15-16.26.10:133][  0]LogUObjectArray: 22121 objects as part of root set at end of initial load.
+[2022.12.15-16.26.10:133][  0]LogUObjectAllocator: 5975632 out of 0 bytes used by permanent object pool.
+[2022.12.15-16.26.10:133][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.15-16.26.10:171][  0]LogEngine: Initializing Engine...
+[2022.12.15-16.26.10:173][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.15-16.26.10:173][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.15-16.26.10:173][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.15-16.26.10:174][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.15-16.26.10:244][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.15-16.26.10:244][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.15-16.26.10:248][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.15-16.26.10:249][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.15-16.26.10:249][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.15-16.26.10:249][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.15-16.26.10:249][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.15-16.26.10:249][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.15-16.26.10:249][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.15-16.26.10:249][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.15-16.26.10:249][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.15-16.26.10:260][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.15-16.26.10:260][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.15-16.26.10:280][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.15-16.26.10:283][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.15-16.26.10:285][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.15-16.26.10:285][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.15-16.26.10:286][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.15-16.26.10:286][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.15-16.26.10:286][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.15-16.26.10:287][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.15-16.26.10:287][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.15-16.26.10:287][  0]LogInit: FAudioDevice initialized.
+[2022.12.15-16.26.10:288][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.15-16.26.10:291][  0]LogInit: Texture streaming: Disabled
+[2022.12.15-16.26.10:343][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.15-16.26.10:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-16.26.10:345][  0]LogInit: Display: Game Engine Initialized.
+[2022.12.15-16.26.10:346][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.12.15-16.26.10:438][  0]LogInit: Display: Starting Game.
+[2022.12.15-16.26.10:439][  0]LogNet: Browse: /Game/MapPJ/MainMenu?Name=Player
+[2022.12.15-16.26.10:439][  0]LogLoad: LoadMap: /Game/MapPJ/MainMenu?Name=Player
+[2022.12.15-16.26.10:439][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.12.15-16.26.10:441][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-16.26.10:441][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-16.26.10:444][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.15-16.26.10:446][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.15-16.26.10:461][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.12.15-16.26.10:467][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.15-16.26.10:467][  0]LogLoad: Game class is 'GameMode'
+[2022.12.15-16.26.10:468][  0]LogWorld: Bringing World /Game/MapPJ/MainMenu.MainMenu up for play (max tick rate 0) at 2022.12.15-23.26.10
+[2022.12.15-16.26.10:468][  0]LogWorld: Bringing up level for play took: 0.000278
+[2022.12.15-16.26.10:468][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.15-16.26.10:469][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.15-16.26.10:469][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.15-16.26.10:470][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.15-16.26.10:474][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.15-16.26.10:474][  0]LogLoad: Took 0.034867 seconds to LoadMap(/Game/MapPJ/MainMenu)
+[2022.12.15-16.26.10:553][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.15-16.26.10:598][  0]LogRenderer: Reallocating scene render targets to support 2552x1360 Format 10 NumSamples 1 (Frame:1).
+[2022.12.15-16.26.10:598][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.15-16.26.10:598][  0]LogLoad: (Engine Initialization) Total time: 4.23 seconds
+[2022.12.15-16.26.10:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.15-16.26.10:621][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-16.26.10:632][  1]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.15-16.26.12:577][450]LogRenderer: Reallocating scene render targets to support 2560x1440 Format 10 NumSamples 1 (Frame:452).
+[2022.12.15-16.26.12:577][450]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.15-16.26.12:577][450]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.15-16.26.12:577][450]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.15-16.26.12:577][450]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.15-16.26.12:577][450]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.15-16.26.12:578][450]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.12.15-16.26.12:578][450]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.15-16.26.12:578][450]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.15-16.26.12:578][450]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.15-16.26.22:006][577]LogRenderer: Reallocating scene render targets to support 2552x1360 Format 10 NumSamples 1 (Frame:2580).
+[2022.12.15-16.26.22:006][577]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.15-16.26.22:006][577]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.15-16.26.22:006][577]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.15-16.26.22:006][577]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.15-16.26.22:007][577]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.12.15-16.26.22:007][577]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.15-16.26.22:007][577]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GH_CTSG/CTSG_Project/CTSG/Saved/Config/Windows/Scalability.ini]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.15-16.26.22:007][577]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.15-16.26.22:956][796]LogSlate: Window 'CTSG (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.12.15-16.26.22:957][796]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.15-16.26.22:961][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-16.26.22:961][796]LogEngine: All Windows Closed
+[2022.12.15-16.26.22:961][796]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.12.15-16.26.22:961][796]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.12.15-16.26.22:961][796]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.12.15-16.26.22:961][797]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.15-16.26.22:961][797]LogInit: Display: PreExit Game.
+[2022.12.15-16.26.22:962][797]LogWorld: BeginTearingDown for /Game/MapPJ/MainMenu
+[2022.12.15-16.26.22:962][797]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-16.26.22:962][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-16.26.23:180][797]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.15-16.26.23:180][797]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.15-16.26.23:180][797]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2022.12.15-16.26.23:212][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.15-16.26.23:213][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.15-16.26.23:215][797]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.15-16.26.23:217][797]LogExit: Preparing to exit.
+[2022.12.15-16.26.23:901][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-16.26.23:902][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.15-16.26.23:927][797]LogMoviePlayer: Shutting down movie player
+[2022.12.15-16.26.24:056][797]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.15-16.26.24:058][797]LogExit: Game engine shut down
+[2022.12.15-16.26.24:090][797]LogExit: Object subsystem successfully closed.
+[2022.12.15-16.26.24:100][797]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.15-16.26.24:100][797]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.15-16.26.24:100][797]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.15-16.26.24:100][797]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.15-16.26.24:100][797]LogShaderCompilers: Display: ================================================
+[2022.12.15-16.26.24:105][797]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (558)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module SequenceRecorder (556)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module AutomationController (554)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module AutomationWorker (552)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module Voice (550)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module SteamVREditor (540)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module ToolMenus (539)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module OculusMR (536)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (534)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module TakeRecorder (533)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (530)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module TakesCore (528)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module OpenXRInput (526)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (522)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module WebMMedia (520)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (514)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (512)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (510)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module PlanarCut (508)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module CharacterAI (506)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module SessionServices (504)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (502)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module LiveCoding (500)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module LevelSequence (498)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (496)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module MovieScene (494)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (492)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module PortalServices (490)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module PortalRpc (488)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module MessagingRpc (486)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (484)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module AudioMixerCore (483)
+[2022.12.15-16.26.24:110][797]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (480)
+[2022.12.15-16.26.24:112][797]LogModuleManager: Shutting down and abandoning module ProfilerService (478)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module TaskGraph (476)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module OculusInput (474)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module TakeMovieScene (472)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module Synthesis (470)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (468)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (466)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module GooglePAD (464)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module EditableMesh (462)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (460)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module CableComponent (458)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module AudioCapture (456)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (455)
+[2022.12.15-16.26.24:171][797]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (452)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module AssetTags (450)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (448)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module AppleImageUtils (446)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module AndroidPermission (444)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (442)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module TemplateSequence (440)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MediaCompositing (438)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module ImgMedia (436)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (434)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (432)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (430)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (428)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (426)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (424)
+[2022.12.15-16.26.24:172][797]LogOpenImageDenoise: OIDN shutting down
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MotoSynth (422)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module MeshConversion (420)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module DynamicMesh (418)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (416)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometricObjects (414)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (412)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (411)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (408)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (407)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometryCache (404)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (403)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module ChaosNiagara (400)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (399)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module BackChannel (396)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module AutomationUtils (394)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (392)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module HotReload (391)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (388)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module UObjectPlugin (386)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (384)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (382)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module SourceControl (381)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (378)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (376)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (374)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (372)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (370)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (368)
+[2022.12.15-16.26.24:172][797]LogModuleManager: Shutting down and abandoning module LiveLink (366)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (358)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (356)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (352)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (350)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (348)
+[2022.12.15-16.26.24:923][797]LogModuleManager: Shutting down and abandoning module TcpMessaging (346)
+[2022.12.15-16.26.25:025][797]LogModuleManager: Shutting down and abandoning module ActorSequence (344)
+[2022.12.15-16.26.25:025][797]LogModuleManager: Shutting down and abandoning module UdpMessaging (342)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (340)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (338)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (336)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (334)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (332)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (330)
+[2022.12.15-16.26.25:126][797]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (328)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (326)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (324)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (322)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapController (320)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (318)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module MagicLeapAR (316)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (314)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (312)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module Niagara (310)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module SignalProcessing (309)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module NiagaraEditor (307)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module ContentBrowser (306)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module CollectionManager (305)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (304)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module ContentBrowserData (301)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module NiagaraCore (296)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (294)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (286)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module AnimationSharing (284)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module GameplayCameras (282)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (280)
+[2022.12.15-16.26.25:126][797]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (278)
+[2022.12.15-16.26.25:127][797]LogModuleManager: Shutting down and abandoning module Paper2D (276)
+[2022.12.15-16.26.25:127][797]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module VREditor (256)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module StringTableEditor (254)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (252)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (250)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module FunctionalTesting (248)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (246)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module UMG (242)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module UMGEditor (241)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module Sequencer (240)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module MessageLog (237)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module SlateReflector (232)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module Slate (230)
+[2022.12.15-16.26.25:130][797]LogModuleManager: Shutting down and abandoning module SlateCore (228)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (226)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module UnrealEd (224)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module MRMesh (222)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module Messaging (220)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module Core (210)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module MaterialEditor (208)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2022.12.15-16.26.25:131][797]LogModuleManager: Shutting down and abandoning module EditorStyle (205)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module MeshBuilder (200)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module MeshUtilities (198)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (197)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (196)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (195)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (193)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (191)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (189)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module MaterialBaking (185)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (178)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TargetPlatform (174)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (173)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (169)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (167)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (165)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (163)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (157)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module D3D11RHI (132)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.12.15-16.26.25:132][797]LogHMD: Freeing OpenVRDLLHandle.
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.12.15-16.26.25:132][797]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2022.12.15-16.26.25:132][797]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.12.15-16.26.25:133][797]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.12.15-16.26.25:133][797]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.12.15-16.26.25:146][797]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.12.15-16.26.25:146][797]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.12.15-16.26.25:162][797]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.12.15-16.26.25:162][797]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.12.15-16.26.25:166][797]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.12.15-16.26.25:167][797]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.12.15-16.26.25:400][797]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.12.15-16.26.25:407][797]LogD3D11RHI: Shutdown
+[2022.12.15-16.26.25:407][797]LogD3D11RHI: CleanupD3DDevice
+[2022.12.15-16.26.25:408][797]LogExit: Exiting.
+[2022.12.15-16.26.25:414][797]Log file closed, 12/15/22 23:26:25
